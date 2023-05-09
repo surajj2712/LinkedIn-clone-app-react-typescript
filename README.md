@@ -6,7 +6,7 @@ with complete user authentication (a mobile-friendly).
 
 # Table of contents
 
-- [Author](#Author)
+
 - [Demo](#Demo)
 - [Technologies](#Technologies)
 - [Features](#Features)
@@ -22,9 +22,6 @@ with complete user authentication (a mobile-friendly).
 - [Deployment](#Deployment)
 - [Screenshots](#Screenshots)
 
-# Author
-
-### <a href="https://github.com/saddamarbaa">@Saddam Arbaa</a>
 
 # Technologies
 
