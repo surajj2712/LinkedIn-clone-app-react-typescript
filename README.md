@@ -95,9 +95,6 @@ Start the server
 
 Project is now complete in React js so my next step I would love to convert to React + TypeScript + Next.js
 
-# Inspiration
-
-Build By Saddam Arbaa Project inspired by [linkedIn] https://www.linkedin.com/
 
 # Deployment
 
